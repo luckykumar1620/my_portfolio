@@ -76,82 +76,83 @@ export const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "hello@johndoe.dev",
-    href: "mailto:hello@johndoe.dev",
+    value: "luckykr1620@gmail.com",
+    href: "mailto:luckykr1620@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1 (555) 123-4567",
-    href: "tel:+15551234567",
+    value: "+91 9065728764",
+    href: "tel:+91 9065728764",
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "San Francisco, CA",
+    value: "Bilaspur,India",
     href: "#",
   },
 ];
 
 export const socialLinks = [
-  { icon: FaGithub, href: "https://github.com", label: "GitHub" },
-  { icon: FaLinkedinIn, href: "https://linkedin.com", label: "LinkedIn" },
-  { icon: FaTwitter, href: "https://twitter.com", label: "Twitter" },
+  { icon: FaGithub, href: "https://github.com/luckykumar1620", label: "GitHub" },
+  { icon: FaLinkedinIn, href: "www.linkedin.com/in/luckykumar1620", label: "LinkedIn" },
+  { icon: FaTwitter, href: "https://www.instagram.com/meritorious_lucky/", label: "Twitter" },
 ];
 
 export const experiences = [
   {
-    type: "work",
-    title: "Senior Full-Stack Developer",
-    company: "TechCorp Inc.",
-    period: "2022 - Present",
+    type: "education",
+    title: "Bachelor of Technology (Computer Science)",
+    company: "Guru Ghasidas Vishwavidyalaya (GGV)",
+    period: "2022 - 2026 (Expected)",
     description:
-      "Leading development of enterprise SaaS products. Mentoring junior developers and implementing best practices.",
-    technologies: ["React", "Node.js", "AWS", "TypeScript"],
+      "Pursuing B.Tech in Computer Science with strong focus on data structures, algorithms, web development, and core computer science subjects.",
+    technologies: ["DSA", "OOPs", "DBMS", "Operating Systems"],
   },
   {
     type: "work",
-    title: "Full-Stack Developer",
-    company: "StartupXYZ",
-    period: "2020 - 2022",
+    title: "Full Stack Web Developer",
+    company: "Personal & Academic Projects",
+    period: "2024 - 2025",
     description:
-      "Built and maintained multiple web applications. Collaborated with design team to implement responsive UIs.",
-    technologies: ["Vue.js", "Python", "PostgreSQL", "Docker"],
+      "Developed and deployed multiple full stack web applications with authentication, database integration, and responsive UI, focusing on real-world problem solving.",
+    technologies: ["React", "Next.js", "Node.js", "MongoDB"],
+  },
+  {
+    type: "work",
+    title: "Backend Development & APIs",
+    company: "Project-Based Learning",
+    period: "2024 - 2025",
+    description:
+      "Built RESTful APIs, handled database design, authentication, and server-side logic for scalable web applications.",
+    technologies: ["Node.js", "Express.js", "MongoDB", "REST APIs"],
+  },
+  {
+    type: "work",
+    title: "Data Structures & Algorithms",
+    company: "Interview Preparation & Practice",
+    period: "2023 - 2025",
+    description:
+      "Actively practicing data structures and algorithms in C++ to improve problem-solving skills and prepare for technical interviews.",
+    technologies: ["C++", "Data Structures", "Algorithms"],
   },
   {
     type: "education",
-    title: "Master of Computer Science",
-    company: "Stanford University",
-    period: "2018 - 2020",
+    title: "Continuous Technical Learning",
+    company: "Self Learning & Online Platforms",
+    period: "2023 - 2025",
     description:
-      "Specialized in distributed systems and machine learning. Thesis on scalable microservices architecture.",
-    technologies: ["Research", "AI/ML", "Distributed Systems"],
-  },
-  {
-    type: "work",
-    title: "Junior Developer",
-    company: "WebAgency Co.",
-    period: "2018 - 2020",
-    description:
-      "Developed client websites and e-commerce platforms. Gained experience in agile methodologies.",
-    technologies: ["JavaScript", "PHP", "MySQL", "WordPress"],
-  },
-  {
-    type: "education",
-    title: "Bachelor of Computer Science",
-    company: "UC Berkeley",
-    period: "2014 - 2018",
-    description:
-      "Strong foundation in algorithms, data structures, and software engineering principles.",
-    technologies: ["Computer Science", "Mathematics", "Problem Solving"],
+      "Continuously learning modern web technologies, backend systems, and best practices through hands-on projects and structured courses.",
+    technologies: ["JavaScript", "TypeScript", "Git", "System Design Basics"],
   },
 ];
 
+
 export const footerSocialLinks = [
-  { icon: FaGithub, href: "https://github.com", label: "GitHub" },
-  { icon: FaLinkedin, href: "https://linkedin.com", label: "LinkedIn" },
+  { icon: FaGithub, href: "https://github.com/luckykumar1620", label: "GitHub" },
+  { icon: FaLinkedin, href: "www.linkedin.com/in/luckykumar1620", label: "LinkedIn" },
   { icon: FaTwitter, href: "https://twitter.com", label: "Twitter" },
-  { icon: Mail, href: "mailto:hello@example.com", label: "Email" },
+  { icon: Mail, href: "luckykr1620@gmail.com", label: "Email" },
 ];
 
 export const projects = [

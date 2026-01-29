@@ -5,7 +5,7 @@ import React from 'react'
 
 const About = () => {
     return (
-        <div className='py-16 bg-gray-100 dark:bg-gray-900'>
+        <div id='about' className='py-16 bg-gray-100 dark:bg-gray-900'>
             {/* section heading */}
             <SectionHeading title_1='About ' title_2='Me' description='Where curiosity meets code and ideas turn into real-world applications' />
 

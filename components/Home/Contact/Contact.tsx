@@ -8,7 +8,7 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div className='py-16 bg-gray-100 dark:bg-gray-950'>
+    <div id='contact' className='py-16 bg-gray-100 dark:bg-gray-950'>
         <SectionHeading 
         title_1='Get In '
         title_2='Touch'
