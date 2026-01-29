@@ -7,7 +7,7 @@ type PageProps = {
 }
 
 const dynamicPage = async ({params}:PageProps) => {
-    const name=(await params).name
+    const {name} =params
   return ( 
     <div>
       Dynamic page {name}
